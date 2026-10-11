@@ -1,0 +1,31 @@
+
+.custom-gradient-card {
+    background: linear-gradient(135deg, #58c4ff 0%, #fdfdfd 100%);
+    color: #090909; 
+}
+
+
+.custom-gradient-card .list-group-item {
+    background-color: transparent !important;
+    color: #000000 !important;
+}
+
+
+.fixed-avatar {
+    width: 90px !important;
+    height: 90px !important;
+    min-width: 90px;
+    object-fit: cover;
+}
+
+
+.custom-gradient-card2 {
+    background: linear-gradient(135deg, #5a5ed4 0%, #fdfdfd 100%);
+    color: #090909; 
+}
+
+
+.custom-gradient-card2 .list-group-item {
+    background-color: transparent !important;
+    color: #000000 !important;
+}
